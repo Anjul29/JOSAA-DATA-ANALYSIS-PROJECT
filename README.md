@@ -53,7 +53,7 @@ Institute trends section highlight the trends of various programs offered by a p
 
 
 ## Roundwise cut-off Analysis
-
+Round trends section highlight the general trend of closing ranks throughout the rounds of the counselling process. This helps understand the likely range of changes in the closing ranks across various institutes and branches over multiple rounds.
   - ### Features
       - Users can get the round wise analysis for specific IIT by selecting the gender,seat type and branch. 
       - User can switch between different IITs by clicking on "Go to iit-list" button.
