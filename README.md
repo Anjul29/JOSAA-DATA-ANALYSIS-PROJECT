@@ -1,5 +1,5 @@
 # JOSAA-data-analysis
-his project aims to provide a comprehensive platform that allows users to explore the seat allotment statistics of JOSAA (Joint Seat Allocation Authority) from 2016 to 2022. This project utilises web scraping techniques to gather data from the JOSAA website, performs data cleaning and analysis, and presenting the insights through visualizations on a website frontend. The website presents the findings through interactive charts and tables, enabling users to gain valuable insights into the trends and patterns of seat allotments over the years.
+This project aims to provide a comprehensive platform that allows users to explore the seat allotment statistics of JOSAA (Joint Seat Allocation Authority) from 2016 to 2022. This project utilises web scraping techniques to gather data from the JOSAA website, performs data cleaning and analysis, and presenting the insights through visualizations on a website frontend. The website presents the findings through interactive charts and tables, enabling users to gain valuable insights into the trends and patterns of seat allotments over the years.
 
 ## Objectives:
 + Data Collection: Scraping and aggregating seat allotment data from the JOSAA website for multiple years.
