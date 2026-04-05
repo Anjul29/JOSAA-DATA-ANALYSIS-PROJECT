@@ -1,4 +1,4 @@
-import sv
+import csv
 from .models import Admission
 
 def populate_admissions():
