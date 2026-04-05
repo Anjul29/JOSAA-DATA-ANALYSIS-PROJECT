@@ -1,4 +1,4 @@
-from django.contrib import admin
+rom django.contrib import admin
 from .models import Admission
 from .models import Contact
 
